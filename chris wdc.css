@@ -1,0 +1,53 @@
+body{
+    background-color: #6ecc92fb;
+    text-align: center;
+}
+table{
+    text-align: justify;
+}
+h1{
+    color:white;
+
+}
+img{text-align: center; 
+
+}
+img{
+    border-radius: 50%;
+    margin: auto ;
+    width:50%
+    height:
+    background-color: #000000;
+}
+.my-benz{width: 25%;
+
+}  
+
+h2{
+    text-align: center;
+}
+table{
+    background-color: #868788;
+    margin: auto;
+
+}
+
+/*
+figure:hover{
+    background-color: #e34444;
+    
+    
+}
+
+/*
+figure{
+    background-color: #000000;
+    border-width: ;
+    */
+    
+
+}
+div{
+    width: 50%;
+    margin: 10% auto;
+}
